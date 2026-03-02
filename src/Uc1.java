@@ -1,5 +1,6 @@
 public class Uc1 {
-    static void main() {
+    static void main()
+    {
         System.out.println("OOPS");
     }
 }
