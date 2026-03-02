@@ -1,6 +1,15 @@
-public class Uc1 {
-    static void main()
-    {
+public class main {
+    public static void main(String[] args) {
+
         System.out.println("OOPS");
+
+
+        System.out.println(" *****   *****   *****   ***** ");
+        System.out.println("*     * *     * *     * *     ");
+        System.out.println("*     * *     * *     * *     ");
+        System.out.println("*     * *     * ******* ******");
+        System.out.println("*     * *     * *            *");
+        System.out.println("*     * *     * *            *");
+        System.out.println(" *****   *****  *        *****");
     }
 }
